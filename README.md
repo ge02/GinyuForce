@@ -15,3 +15,5 @@ Weiteres To Do:
 - Rest zsm
 
 Nächstes Meeting: 30.12.24 (Uhrzeit tbd)
+
+![WhatsApp Bild 2024-12-23 um 16 05 52_c5bc99fe](https://github.com/user-attachments/assets/efdbf340-3e27-4c17-bb6c-d7d39470dfc0)
