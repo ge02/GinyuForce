@@ -16,7 +16,7 @@ Descriptive analysis:
 - visualization_weather_set.ipynb
 
 Modeling:
-- modeling.ipynb
+- modeling.ipynb (not runnable yet, currently only preparation)
 
 Cluster analysis:
 - cluster.ipynb
