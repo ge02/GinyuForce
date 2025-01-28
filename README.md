@@ -51,5 +51,9 @@ Modeling:
 Cluster analysis:
 - cluster.ipynb
 
-![WhatsApp Image 2024-12-23 at 16 05 52](https://github.com/user-attachments/assets/fb413fb5-69b4-48b7-b640-2aa242f20314)
-    
+## Group Picture
+"The Ginyu Force! The most powerful mercenaries in the universe!"
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/fb413fb5-69b4-48b7-b640-2aa242f20314" width="45%" />
+  <img src="https://github.com/user-attachments/assets/959f5ab6-2737-40ed-9283-522037668500" width="45%" />
+</p>
