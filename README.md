@@ -1,11 +1,41 @@
 # GinyuForce
 
-This repository stores our code for the group project in the course AA.
+Welcome to the notebook for our AA Team Assignment project! To ensure structured and effective collaboration, here are some important notes on how to use and handle this notebook.
 
-The correspondig datasets are stored on sciebo: https://uni-koeln.sciebo.de/s/B7RIXQi3bXxQFlZ
+### Problem Description
 
-## Milestone 2
-Please look at the main branch for milestone 2. We have distributed the different tasks into different notebooks:
+This project focuses on helping operators of EV charging hubs optimize their
+services and infrastructure. A central challenge is balancing limited charging capacity
+with unpredictable user behavior, which is influenced by factors like weather, "range
+anxiety" and charging habits. The goals are to provide insights into operational perfor-
+mance, identify distinct customer groups based on charging behavior with clustering,
+and accurately forecast future utilization with an predictive ML model. By addressing
+these challenges, operators can improve planning, enhance customer satisfaction, en-
+sure efficient use of their charging infrastructure and extend revenue by enabling new
+business cases.
+
+### Usage
+
+#### File structure and Sciebo location
+
+This notebook refers to files and resources that are stored in a central Sciebo folder. At the beginning of each notebook you will find an indication of which file(s) from Sciebo is/are required for the respective task.
+
+Sciebo: https://uni-koeln.sciebo.de/s/B7RIXQi3bXxQFlZ
+
+#### Access to files
+Make sure that you have access to the Sciebo folder and that the relevant files are correctly downloaded or linked.
+Path details: If you are working locally, please check that the file paths used in the notebook match your environment. For users of cloud solutions, the access path may need to be adjusted.
+
+### Ginyu Force Members
+
+- Brakowski, Adrian - 7381171
+- Ge, Anthony - 7381058
+- Hackenbroch, Tom Paul - 7381245
+- Schreier, Louis - 7381065
+- Theobald, Marius - 7384203
+
+### Structure for Tasks
+Please look at the main branch for final submition. We have distributed the different tasks into different notebooks:
 
 Data cleanup and preparation:
 - data_prep_charging_set.ipynb
@@ -16,25 +46,10 @@ Descriptive analysis:
 - visualization_weather_set.ipynb
 
 Modeling:
-- modeling.ipynb (not runnable yet, currently only preparation)
+- modeling.ipynb 
 
 Cluster analysis:
 - cluster.ipynb
 
 ![WhatsApp Image 2024-12-23 at 16 05 52](https://github.com/user-attachments/assets/fb413fb5-69b4-48b7-b640-2aa242f20314)
-
-
-# Current structure of data cleanup structure
-- overview of raw data
-- check validity of columns
-    - remove "Unnamed 0" column
-    - split "userInputs" columns
-- check for duplicates
-- check for Na-values (only non-time data, we want to treat time-data differently)
-- create isRegistered
-- handle time-data
-- check data types of all features
-- check ranges of all features
-- identify outliers
-- calculate utilization
     
