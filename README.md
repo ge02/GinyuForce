@@ -4,6 +4,17 @@ This repository stores our code for the group project in the course AA.
 
 The correspondig datasets are stored on sciebo: https://uni-koeln.sciebo.de/s/B7RIXQi3bXxQFlZ
 
+For some of the notebooks data must be be stored in a data folder to run the notebooks so the 
+
+To run the code the necessary packages have to installed first. For the following notebooks please install these packages:
+- 01_Data_Preperation: numpy,pandas,matplotlib, seaborn,warnings and ast
+- 02_Visualization_Chargingset: numpy, pandas, datetime, warnings, matplotlib, seaborn, plotly
+- 02_Visualization_Weatherset: numpy, pandas, datetime, warnings, matplotlib, seaborn
+- 03_Cluster_Analysis: numpy, pandas, matplotlib, seaborn, sklearn
+
+## Final submission
+For our final submission please look at the main branch 
+
 ## Milestone 2
 Please look at the main branch for milestone 2. We have distributed the different tasks into different notebooks:
 
