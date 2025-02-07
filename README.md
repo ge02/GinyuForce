@@ -35,7 +35,17 @@ Path details: If you are working locally, please check that the file paths used 
 - Theobald, Marius - 7384203
 
 ### Structure for Tasks
-Please look at the main branch for final submition. We have distributed the different tasks into different notebooks:
+Please look at the main branch for final submittion. We have distributed the different tasks into different notebooks:
+For some of the notebooks data must be be stored in a data folder to run the notebooks so the 
+
+To run the code the necessary packages have to installed first. For the following notebooks please install these packages:
+- 01_Data_Preperation: numpy,pandas,matplotlib, seaborn,warnings and ast
+- 02_Visualization_Chargingset: numpy, pandas, datetime, warnings, matplotlib, seaborn, plotly
+- 02_Visualization_Weatherset: numpy, pandas, datetime, warnings, matplotlib, seaborn
+- 03_Cluster_Analysis: numpy, pandas, matplotlib, seaborn, sklearn
+
+## Final submission
+For our final submission please look at the main branch 
 
 Data cleanup and preparation:
 - data_prep_charging_set.ipynb
